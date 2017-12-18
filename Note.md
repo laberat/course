@@ -26,3 +26,8 @@ requestChange 表示作业需要修改
 ### 使用 SourceTree
 
 略
+
+### 如何向老师或助教提问？
+
+参考：https://shimo.im/docs/AnneAaVmNgUedVo3
+疑问：issue 是在自己的 Github 仓库上开，还是在主库（老师的库）上开？

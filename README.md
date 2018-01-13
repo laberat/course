@@ -6,4 +6,4 @@
 注册 github 之类的事情就略过了。
 打开 https://github.com/linjie-1/guigulive-operation （每期课程可能都不一样，这里是第二期的地址），按下图点击 fork，将工程 fork 到自己命名空间下一份。
 
-![fork 官方库到自己命名空间][https://github.com/laberat/course/blob/master/img/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6001.png]
+![fork 官方库到自己命名空间](https://github.com/laberat/course/blob/master/img/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6001.png)
